@@ -1,0 +1,13 @@
+.nav__list {
+  list-style: none;
+}
+
+.header a {
+  color: #000;
+}
+
+.nav__link {
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 2px;
+}
